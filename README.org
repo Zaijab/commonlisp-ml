@@ -1,0 +1,14 @@
+#+INFOJS_OPT: view:overview toc:t
+#+OPTIONS: toc:nil
+* CL Machine-Learning
+
+CL Machine-Learning is high performance and large scale statistical
+machine learning package written in Common Lisp
+
+** Related Repositories
+ + clml.extras - https://github.com/mmaul/clml.extras Extended features for clml
+   - cl-plplot integration
+   - cl-ana integration
+   - r-datasets - Library for seamless access to R datasets
+   - eazy-gnuplot integration
+ + clml.tutorials - https://github.com/mmaul/clml.tutorials Tutorials for CLML
